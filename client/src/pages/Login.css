@@ -1,0 +1,34 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    background-color: white;
+    color: black;
+    border-color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    align-items: center;
+}
+button:hover
+{
+    background-color: black;
+    color: white;
+}
+
+a{
+    color: rgb(25, 95, 217);
+    text-decoration: none;
+    padding-left: 8px;
+    font-size: 75%;
+}
+
+.authFail{
+    color: rgb(209, 2, 2);
+}
+
+.goBack{
+    padding-top: 170%;
+}

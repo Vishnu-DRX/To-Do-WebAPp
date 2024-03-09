@@ -1,0 +1,70 @@
+.tasklist{
+    align-items: center;
+    padding-left: 6%;
+}
+
+.dashboard{
+    align-items: center;
+    padding-left: 6%;
+}
+
+.addTask{
+    text-align: center;
+    font-size: 110%;
+    color: white;
+    padding-right: 55%;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.Home-header{
+    background-color: #192a4a8d;
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.username{
+    padding-right: 1%;
+    color: white;
+    font-weight: 750;
+    font-size: 120%;
+}
+
+.Button2{
+    background-color: rgb(0, 0, 0);
+    font-size: 80%;
+    padding: 3px;
+    padding-inline: 6px;
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;    
+}
+
+.Buttonbox2{
+    padding-right: 2%;
+}
+
+.Button2:hover
+{
+    background-color: rgb(73, 67, 101);
+}
+
+.Button3{
+    background-color: rgba(0, 0, 0, 0.215);
+    font-size: 80%;
+    padding: 3px;
+    padding-inline: 6px;
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;    
+}
+
+.Button3:hover
+{
+    background-color: rgb(0, 0, 0);
+}
+

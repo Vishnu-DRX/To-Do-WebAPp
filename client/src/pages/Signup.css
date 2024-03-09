@@ -1,0 +1,20 @@
+.signup {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a{
+    color: rgb(25, 95, 217);
+    text-decoration: none;
+    padding-left: 8px;
+    font-size: 75%;
+}
+
+.error{
+    color: rgb(209, 2, 2);
+}
+
+.goBack{
+    padding-top: 90%;
+}
