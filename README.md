@@ -7,7 +7,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A webApp tool built on TensorflowJS that helps you measure how stressed you might be.
+A basic web application used to store and track the progress of your tasks. 
 
 ### Built With:
 
